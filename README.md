@@ -11,14 +11,14 @@ Generating the data for the plot for one mode (e.g. "targeted_m_homo") takes ~35
 
 
 
-**Parameters of the HIV model, description, reference.***
-`condom_usage`*, proportion of sexual interactions that involve the use of condoms out of all interactions between two gender types, Reece et al. 2010.
-`condom_efficiency`, proportion of sexual interactions that do not result in the transmission of HIV out of all interactions that involve the use of condoms between two genders, Smith et al. 1999 and Weller et al. 1996.
+**Parameters of the HIV model, description, reference.***  
+`condom_usage`*, proportion of sexual interactions that involve the use of condoms out of all interactions between two gender types, Reece et al. 2010.  
+`condom_efficiency`, proportion of sexual interactions that do not result in the transmission of HIV out of all interactions that involve the use of condoms between two genders, Smith et al. 1999 and Weller et al. 1996.  
 
 *If multiple empirical parameter values were reported, e.g. condom usage reported by heterosexual men and condom usage reported by heterosexual women the mean of the reported values was assigned as parameter value.
 
 **References**   
-Reece, M., Herbenick, D., Schick, V., Sanders, S. A., Dodge, B., & Fortenberry, J. D. (2010). Condom use rates in a national probability sample of males and females ages 14 to 94 in the United States. The journal of sexual medicine, 7, 266-276.
+Reece, M., Herbenick, D., Schick, V., Sanders, S. A., Dodge, B., & Fortenberry, J. D. (2010). Condom use rates in a national probability sample of males and females ages 14 to 94 in the United States. The journal of sexual medicine, 7, 266-276.  
 Poorolajal, J., Hooshmand, E., Mahjub, H., Esmailnasab, N., & Jenabi, E. (2016). Survival rate of AIDS disease and mortality in HIV-infected patients: a meta-analysis. Public health, 139, 3-12.
-Smith, D. K., Herbst, J. H., Zhang, X., & Rose, C. E. (2015). Condom effectiveness for HIV prevention by consistency of use among men who have sex with men in the United States. Journal of acquired immune deficiency syndromes (1999), 68(3), 337–344.
-Weller, S. C., Davis‐Beaty, K., & Cochrane HIV/AIDS Group. (1996). Condom effectiveness in reducing heterosexual HIV transmission. Cochrane database of systematic reviews, 2012(3).
+Smith, D. K., Herbst, J. H., Zhang, X., & Rose, C. E. (2015). Condom effectiveness for HIV prevention by consistency of use among men who have sex with men in the United States. Journal of acquired immune deficiency syndromes (1999), 68(3), 337–344.  
+Weller, S. C., Davis‐Beaty, K., & Cochrane HIV/AIDS Group. (1996). Condom effectiveness in reducing heterosexual HIV transmission. Cochrane database of systematic reviews, 2012(3).  
