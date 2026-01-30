@@ -11,7 +11,7 @@ Generating the data for the plot for one mode (e.g. "targeted_m_homo") takes ~35
 
 
 
-**Parameters of the HIV model and description.**
+**Parameters of the HIV model and description.**  
 condom_usage, proportion of sexual interactions that involve the use of condoms out of all interactions between two gender types.
 condom_efficiency, proportion of sexual interactions that do not result in the transmission of HIV out of all interactions that involve the use of condoms between two genders.
 
